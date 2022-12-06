@@ -1,0 +1,11 @@
+#Registr, #Author {
+    
+    display: flex;
+    margin-top: 10%;
+
+}
+
+p, h1 {
+    position: relative;
+    margin-left: 40%;
+}
